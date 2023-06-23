@@ -10,4 +10,9 @@
     <ProjectReference Include="..\ECommApp.Domain\ECommApp.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Infrastructure\" />
+    <Folder Include="Repository\" />
+  </ItemGroup>
+
 </Project>
